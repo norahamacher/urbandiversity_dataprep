@@ -109,4 +109,9 @@ dependencies:
   - zeromq=4.3.4=h9c3ff4c_1
   - zipp=3.8.0=pyhd8ed1ab_0
   - zlib=1.2.12=h166bdaf_0
+  - pip:
+    - ipyvue==1.7.0
+    - ipyvuetify==1.8.2
+    - jenkspy==0.2.0
+    - shapely==1.8.2
 prefix: /home/bluebee/anaconda3/envs/jupyterlab
